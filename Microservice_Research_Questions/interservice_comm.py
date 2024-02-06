@@ -1,4 +1,6 @@
 """
+MICROSERVICE:A monolithic application is built as a single unified unit 
+microservices architecture is a collection of smaller, independently deployable services.
 INTERSERVICE COMMUNICATIONS:
                             Inter-service communication refers to the exchange of information or messages between different services in a microservices architecture.
                             it enables services to collaborate, share data, and coordinate their actions.
